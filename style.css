@@ -1,4 +1,36 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+
+h1 {
+    color:grey;
+    font-family:verdana;
+    text-align:left;
+}
+
+.maindiv {
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    text-align:center;
+}
+
+footer {
+    color:black;
+    font-family:arial;
+    text-align:left;
+}
 
 
+.subdiv {
+    background-color:white;
+    color:black;
+    width:300px;
+    padding:0px 0px 0px 80px;
+    text-align:left;
+    line-height: 30px;
+}
